@@ -1,4 +1,2 @@
-nginx
-#支持私库
-wikibase/wikibase:1.41.1-wmde.20
-mediawiki
+
+wikibase/wikibase
